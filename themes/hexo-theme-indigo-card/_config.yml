@@ -60,8 +60,8 @@ share: true
 # 是否开启打赏，关闭 reward: false
 reward:
   title: 谢谢大爷~
-  wechat: /img/wechat.png     #微信，关闭设为 false
-  alipay: /img/alipay.jpg     #支付宝，关闭设为 false
+  wechat: ./img/wechat.png     #微信，关闭设为 false
+  alipay: ./img/alipay.jpg     #支付宝，关闭设为 false
 
 # 是否开启搜索
 search: true
