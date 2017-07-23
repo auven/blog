@@ -10,26 +10,26 @@
 menu:
   home:
     text: 主页
-    url: /blog/
+    url: /
   archives:
     text: 文章
-    url: /blog/archives
+    url: /archives
   tags:
     text: 标签
-    url: /blog/tags
+    url: /tags
   th-list:
     text: 分类
-    url: /blog/categories
+    url: /categories
   github:
     url: https://github.com/auven
     target: _blank
 
 # 你的头像url
-avatar: /blog/img/avatar.jpg
+avatar: /img/avatar.jpg
 # avatar link
-avatar_link: /blog/
+avatar_link: /
 # 头像背景图
-brand: /blog/img/brand.jpg
+brand: /img/brand.jpg
 # favicon
 favicon: /favicon.ico
 
