@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Auven的个人博客</title>
+  
+  <link href="/blog/atom.xml" rel="self"/>
+  
+  <link href="http://auven.oschina.io/blog/"/>
+  <updated>2017-08-17T16:13:48.948Z</updated>
+  <id>http://auven.oschina.io/blog/</id>
+  
+  <author>
+    <name>Auven Zhang</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>webstorm使用技巧</title>
+    <link href="http://auven.oschina.io/blog/2017/08/17/webstorm%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7/"/>
+    <id>http://auven.oschina.io/blog/2017/08/17/webstorm使用技巧/</id>
+    <published>2017-08-17T23:50:00.000Z</published>
+    <updated>2017-08-17T16:13:48.948Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="webstorm最新激活码"><a href="#webstorm最新激活码" class="headerlink" title="webstorm最新激活码"></a>webstorm最新激活码</h2><blockquote>
+<p>参考：<a href="http://blog.csdn.net/xx1710/article/details/51725012" target="_blank" rel="external">http://blog.csdn.net/xx1710/article/details/51725012</a></p>
+</blockquote>
+<p>选择 License server ，然后复制下面的链接粘贴（任选其一）：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div></pre></td><td class="code"><pre><div class="line">(2016.11.16)</div><div class="line"></div><div class="line">http://v2mc.net:1017</div><div class="line"></div><div class="line">(2016.10.8更新)</div><div class="line"></div><div class="line">http://idea.qinxi1992.cn/ilanyu</div><div class="line"></div><div class="line">（2016.9.2更新）</div><div class="line"></div><div class="line">http://idea.imsxm.com/ &lt;---我正在使用的</div><div class="line"></div><div class="line">http://jetbrains.tencent.click</div><div class="line"></div><div class="line">（2016.8.11更新）</div><div class="line"></div><div class="line">http://114.215.133.70:41017</div><div class="line"></div><div class="line">(2016.7.28更新)</div><div class="line"></div><div class="line">http://idea.qinxi1992.cn</div><div class="line"></div><div class="line">(2016.6.21更新)</div><div class="line"></div><div class="line">http://121.42.190.89:1025</div></pre></td></tr></table></figure></p>
+<h2 id="忽略node-modules文件夹"><a href="#忽略node-modules文件夹" class="headerlink" title="忽略node_modules文件夹"></a>忽略node_modules文件夹</h2><blockquote>
+<p>参考：<a href="https://segmentfault.com/q/1010000007351128" target="_blank" rel="external">https://segmentfault.com/q/1010000007351128</a></p>
+</blockquote>
+<p>前端项目中经常会带有node_modules文件夹，有时候这个文件夹过大的时候，打开项目时会卡死，一直在做indexing。。。</p>
+<p>解决办法：</p>
+<ol>
+<li>打开设置<code>setting</code></li>
+<li>选择<code>Editor</code>里面的<code>File Types</code></li>
+<li>在<code>ignore files and folders</code>中添加<code>node_modules;</code></li>
+</ol>
+<h2 id="快速定位代码插件CodeClance"><a href="#快速定位代码插件CodeClance" class="headerlink" title="快速定位代码插件CodeClance"></a>快速定位代码插件<code>CodeClance</code></h2><p>类似sublime代码右边的代码预览。</p>
+<p>打开settings，选择plugins，搜索<code>CodeGlance</code>，点击安装。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;webstorm最新激活码&quot;&gt;&lt;a href=&quot;#webstorm最新激活码&quot; class=&quot;headerlink&quot; title=&quot;webstorm最新激活码&quot;&gt;&lt;/a&gt;webstorm最新激活码&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;参考：&lt;a href=&quot;h
+    
+    </summary>
+    
+      <category term="IDE" scheme="http://auven.oschina.io/blog/categories/IDE/"/>
+    
+    
+      <category term="IDE" scheme="http://auven.oschina.io/blog/tags/IDE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>浅谈搜索引擎SEO</title>
+    <link href="http://auven.oschina.io/blog/2017/07/28/%E6%B5%85%E8%B0%88%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8ESEO/"/>
+    <id>http://auven.oschina.io/blog/2017/07/28/浅谈搜索引擎SEO/</id>
+    <published>2017-07-28T23:45:00.000Z</published>
+    <updated>2017-08-17T16:13:48.948Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote>
+<p>慕课网课程《浅谈搜索引擎_SEO》学习笔记</p>
+</blockquote>
+<h2 id="简单介绍SEO"><a href="#简单介绍SEO" class="headerlink" title="简单介绍SEO"></a>简单介绍SEO</h2><p>什么是seo？seo是提高网站浏览量而做的优化手段。</p>
+<p>如何快速提高网站的权重及浏量</p>
+<p>有效方式，专业检测网站的浏量</p>
+<h3 id="seo与sem的区别"><a href="#seo与sem的区别" class="headerlink" title="seo与sem的区别"></a>seo与sem的区别</h3><ul>
+<li>seo（Search Engine Optimization 搜索引擎优化），免费</li>
+<li>sem（Search Engine Marketing 搜索引擎营销），广告，收费</li>
+</ul>
+<p>特点：</p>
+<ol>
+<li>sem高投入、seo低投入</li>
+<li>sem短，效益快，seo长期投入，增长慢</li>
+<li>新广告法颁布之后sem广告位减少、竞争压力大（适合大型企业）</li>
+</ol>
+<h3 id="简单认识IP、PV、UV"><a href="#简单认识IP、PV、UV" class="headerlink" title="简单认识IP、PV、UV"></a>简单认识IP、PV、UV</h3><ul>
+<li>IP：独立IP访问的用户（同一局域网下，比如公司、家庭，都属于一个独立IP）</li>
+<li>PV：页面浏览量或点击量（网络请求）</li>
+<li>UV：独立访客数</li>
+</ul>
+<h3 id="搜索引擎简史"><a href="#搜索引擎简史" class="headerlink" title="搜索引擎简史"></a>搜索引擎简史</h3><ol>
+<li>搜索引擎前身：导航网址</li>
+<li>早期的搜索引擎：雅虎、谷歌</li>
+<li>搜索引擎占有率工具：<a href="http://gs.statcounter.com/" target="_blank" rel="external">statcounter</a></li>
+</ol>
+<h3 id="seo排名机制"><a href="#seo排名机制" class="headerlink" title="seo排名机制"></a>seo排名机制</h3><ol>
+<li>搜索引擎蜘蛛（根据一些关键词抓取网站，存储在数据库中，等用户搜索的时候返回给用户。所以有延迟性）</li>
+<li>权重</li>
+</ol>
+<h2 id="权重的提升"><a href="#权重的提升" class="headerlink" title="权重的提升"></a>权重的提升</h2><p>新网站上线，通知到相关的搜索引擎。</p>
+<p>通过 搜索引擎提交入口</p>
+<p>seo优化最重要的三要素</p>
+<ol>
+<li>标题</li>
+<li>关键词</li>
+<li>描述</li>
+</ol>
+<h3 id="外链（友情链接）"><a href="#外链（友情链接）" class="headerlink" title="外链（友情链接）"></a>外链（友情链接）</h3><p>外链是指网站与网站之间的链接向导</p>
+<p>外链是提升权重的方式</p>
+<p>互联网是链接与链接实现的一条网络</p>
+<p>友情链接交换注意事项</p>
+<ol>
+<li>和内容相近的网站交换</li>
+<li>链接交换形式多样</li>
+</ol>
+<p>单向链接：别人指向我或者我指向别人，而对方不指过来</p>
+<p>双向链接</p>
+<p>单向直链</p>
+<ol>
+<li>灌水式外链</li>
+</ol>
+<h3 id="内链"><a href="#内链" class="headerlink" title="内链"></a>内链</h3><ol>
+<li>提升网站内部页面抓取率</li>
+<li>优化本站、提高流量</li>
+</ol>
+<h3 id="内容质量"><a href="#内容质量" class="headerlink" title="内容质量"></a>内容质量</h3><ol>
+<li>更新</li>
+<li>质量</li>
+<li>原创</li>
+<li>关键词密度（2%~8%）</li>
+</ol>
+<h3 id="黑帽和沙箱"><a href="#黑帽和沙箱" class="headerlink" title="黑帽和沙箱"></a>黑帽和沙箱</h3><ol>
+<li>购买外链</li>
+<li>垃圾站</li>
+<li>黑客行为</li>
+</ol>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;慕课网课程《浅谈搜索引擎_SEO》学习笔记&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;简单介绍SEO&quot;&gt;&lt;a href=&quot;#简单介绍SEO&quot; class=&quot;headerlink&quot; title=&quot;简单介绍SEO&quot;&gt;&lt;/a&gt;简单介绍SEO&lt;/
+    
+    </summary>
+    
+      <category term="学习笔记" scheme="http://auven.oschina.io/blog/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="seo" scheme="http://auven.oschina.io/blog/tags/seo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>FullCalendar日程插件学习笔记</title>
+    <link href="http://auven.oschina.io/blog/2017/07/27/FullCalendar%E6%97%A5%E7%A8%8B%E6%8F%92%E4%BB%B6%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <id>http://auven.oschina.io/blog/2017/07/27/FullCalendar日程插件学习笔记/</id>
+    <published>2017-07-27T15:16:00.000Z</published>
+    <updated>2017-08-17T16:13:48.948Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote>
+<p>本文只记录一些特殊的方法方案，简单的使用请查看<a href="https://fullcalendar.io/docs/" target="_blank" rel="external">官方文档</a></p>
+</blockquote>
+<h3 id="dayClick获取点击日期的所有日程"><a href="#dayClick获取点击日期的所有日程" class="headerlink" title="dayClick获取点击日期的所有日程"></a><code>dayClick</code>获取点击日期的所有日程</h3><figure class="highlight js"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div></pre></td><td class="code"><pre><div class="line">dayClick: <span class="function"><span class="keyword">function</span> (<span class="params">date, jsEvent, view, resourceObj</span>) </span>&#123;</div><div class="line"></div><div class="line">    alert(<span class="string">'Clicked on: '</span> + date.format());</div><div class="line"></div><div class="line">    alert(<span class="string">'Coordinates: '</span> + jsEvent.pageX + <span class="string">','</span> + jsEvent.pageY);</div><div class="line"></div><div class="line">    alert(<span class="string">'Current view: '</span> + view.name);</div><div class="line"></div><div class="line">    <span class="built_in">console</span>.log(full);</div><div class="line"></div><div class="line">    <span class="comment">// change the day's background color just for fun</span></div><div class="line">    $(<span class="keyword">this</span>).css(<span class="string">'background-color'</span>, <span class="string">'red'</span>);</div><div class="line"></div><div class="line">    <span class="keyword">var</span> events = $(<span class="string">'#calendar'</span>).fullCalendar(<span class="string">'clientEvents'</span>, <span class="function"><span class="keyword">function</span> (<span class="params">event</span>) </span>&#123;</div><div class="line">        <span class="keyword">var</span> eventStart = event.start.format(<span class="string">'YYYY-MM-DD'</span>);</div><div class="line">        <span class="keyword">var</span> eventEnd = event.end ? event.end.format(<span class="string">'YYYY-MM-DD'</span>) : <span class="literal">null</span>;</div><div class="line">        <span class="keyword">var</span> theDate = date.format(<span class="string">'YYYY-MM-DD'</span>);</div><div class="line">        <span class="comment">// Make sure the event starts on or before date and ends afterward</span></div><div class="line">        <span class="comment">// Events that have no end date specified (null) end that day, so check if start = date</span></div><div class="line">        <span class="keyword">return</span> (eventStart &lt;= theDate &amp;&amp; (eventEnd &gt;= theDate) &amp;&amp; !(eventStart &lt; theDate &amp;&amp; (eventEnd == theDate))) || (eventStart == theDate &amp;&amp; (eventEnd === <span class="literal">null</span>));</div><div class="line">    &#125;);</div><div class="line">    <span class="built_in">console</span>.log(events); <span class="comment">// do whatever with the events</span></div><div class="line">&#125;</div></pre></td></tr></table></figure>
+<p>参考：<a href="https://www.douban.com/note/559785873/" target="_blank" rel="external">https://www.douban.com/note/559785873/</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;本文只记录一些特殊的方法方案，简单的使用请查看&lt;a href=&quot;https://fullcalendar.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;官方文档&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3
+    
+    </summary>
+    
+      <category term="前端插件" scheme="http://auven.oschina.io/blog/categories/%E5%89%8D%E7%AB%AF%E6%8F%92%E4%BB%B6/"/>
+    
+    
+      <category term="前端插件" scheme="http://auven.oschina.io/blog/tags/%E5%89%8D%E7%AB%AF%E6%8F%92%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>收藏一些好看的网站</title>
+    <link href="http://auven.oschina.io/blog/2017/07/26/%E6%94%B6%E8%97%8F%E4%B8%80%E4%BA%9B%E5%A5%BD%E7%9C%8B%E7%9A%84%E7%BD%91%E7%AB%99/"/>
+    <id>http://auven.oschina.io/blog/2017/07/26/收藏一些好看的网站/</id>
+    <published>2017-07-26T15:20:00.000Z</published>
+    <updated>2017-08-17T16:13:48.948Z</updated>
+    
+    <content type="html"><![CDATA[<p>收集一些界面美观的网站：</p>
+<ul>
+<li><p><a href="http://www.dagle.cn/" target="_blank" rel="external">德格官网</a><br>支持响应式。使用插件aos.js(滚动动画库)、barba-js(创建页面间流畅平滑的过渡效果)、Isotope(筛选和分类神奇的布局)</p>
+</li>
+<li><p><a href="http://mail.163.com/dashi/" target="_blank" rel="external">网易邮箱大师</a><br>网页版不支持响应式，不同设备显示不同网页。</p>
+</li>
+<li><p><a href="http://getbootstrapadmin.com/remark/" target="_blank" rel="external">响应式后台管理模板</a></p>
+</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;收集一些界面美观的网站：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://www.dagle.cn/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;德格官网&lt;/a&gt;&lt;br&gt;支持响应式。使用插件aos.js(滚动动画库)、barba-js(创
+    
+    </summary>
+    
+      <category term="优秀网站收录" scheme="http://auven.oschina.io/blog/categories/%E4%BC%98%E7%A7%80%E7%BD%91%E7%AB%99%E6%94%B6%E5%BD%95/"/>
+    
+    
+      <category term="界面设计" scheme="http://auven.oschina.io/blog/tags/%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1/"/>
+    
+      <category term="UI" scheme="http://auven.oschina.io/blog/tags/UI/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>前端编码规范</title>
+    <link href="http://auven.oschina.io/blog/2017/07/25/%E5%89%8D%E7%AB%AF%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83/"/>
+    <id>http://auven.oschina.io/blog/2017/07/25/前端编码规范/</id>
+    <published>2017-07-25T11:50:00.000Z</published>
+    <updated>2017-08-17T16:13:48.948Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote>
+<p>为什么要遵循编码规范呢？首先是自己易于维护，其次是他人易于理解，在团队合作中尤为重要！一个团队应该遵循一套统一的代码规范，比如变量命名，代码缩进等。</p>
+</blockquote>
+<p>这里有几篇不错的代码规范文档，戳链接查看：</p>
+<ul>
+<li><a href="http://codeguide.bootcss.com/" target="_blank" rel="external">(中文)HTML和CSS编码规范 By @mdo</a> | <a href="http://codeguide.co/" target="_blank" rel="external">官网</a> | <a href="https://github.com/mdo/code-guide" target="_blank" rel="external">github</a></li>
+<li><a href="https://github.com/ecomfe/spec" target="_blank" rel="external">前端各语言编码规范</a></li>
+<li><a href="https://zenozeng.github.io/fonts.css/" target="_blank" rel="external">Fonts.css – 跨平台中文字体解决方案</a></li>
+<li><a href="https://github.com/chokcoco/iCSS" target="_blank" rel="external">谈谈一些有趣的 CSS 话题</a></li>
+</ul>
+<h3 id="关于css注释"><a href="#关于css注释" class="headerlink" title="关于css注释"></a>关于css注释</h3><p>在查看人家的网页中，我发现了如下的注释方式：<br><figure class="highlight css"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div></pre></td><td class="code"><pre><div class="line"><span class="comment">/* ========</span></div><div class="line"><span class="comment">  基本样式</span></div><div class="line"><span class="comment">  ========*/</span></div><div class="line">...</div><div class="line"></div><div class="line"><span class="comment">/* ========</span></div><div class="line"><span class="comment">  头部样式</span></div><div class="line"><span class="comment">  ========*/</span></div><div class="line">...</div></pre></td></tr></table></figure></p>
+<figure class="highlight css"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line"><span class="comment">/* 基本样式 */</span></div><div class="line">...</div><div class="line"><span class="comment">/* /基本样式 */</span></div></pre></td></tr></table></figure>
+<p>我个人感觉第一种比较好，所以我决定在项目中采用第一种。</p>
+<h3 id="关于页面字体颜色"><a href="#关于页面字体颜色" class="headerlink" title="关于页面字体颜色"></a>关于页面字体颜色</h3><p>设置为<code>#222</code></p>
+<p>TODO: 深入理解移动自适应布局，dpr</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;为什么要遵循编码规范呢？首先是自己易于维护，其次是他人易于理解，在团队合作中尤为重要！一个团队应该遵循一套统一的代码规范，比如变量命名，代码缩进等。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;这里有几篇不错的代码规范文档，戳链接查看：&lt;/p&gt;
+&lt;u
+    
+    </summary>
+    
+      <category term="转载" scheme="http://auven.oschina.io/blog/categories/%E8%BD%AC%E8%BD%BD/"/>
+    
+      <category term="编码规范" scheme="http://auven.oschina.io/blog/categories/%E8%BD%AC%E8%BD%BD/%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83/"/>
+    
+    
+      <category term="编码规范" scheme="http://auven.oschina.io/blog/tags/%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>你好，世界</title>
+    <link href="http://auven.oschina.io/blog/2017/07/24/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E4%B8%96%E7%95%8C/"/>
+    <id>http://auven.oschina.io/blog/2017/07/24/你好，世界/</id>
+    <published>2017-07-24T00:10:00.000Z</published>
+    <updated>2017-08-17T16:13:48.948Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="自我介绍"><a href="#自我介绍" class="headerlink" title="自我介绍"></a>自我介绍</h2><p>喜欢前端，擅长前端。</p>
+<h2 id="不同语言输出hello-world"><a href="#不同语言输出hello-world" class="headerlink" title="不同语言输出hello world"></a>不同语言输出<code>hello world</code></h2><figure class="highlight html"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div></pre></td><td class="code"><pre><div class="line"><span class="meta">&lt;!DOCTYPE html&gt;</span>  </div><div class="line"><span class="tag">&lt;<span class="name">html</span>&gt;</span>  </div><div class="line">  <span class="tag">&lt;<span class="name">body</span>&gt;</span>  </div><div class="line">    <span class="tag">&lt;<span class="name">h1</span>&gt;</span>This is the first program!<span class="tag">&lt;/<span class="name">h1</span>&gt;</span>  </div><div class="line">    <span class="tag">&lt;<span class="name">p</span>&gt;</span>Hello,World!<span class="tag">&lt;/<span class="name">p</span>&gt;</span>  </div><div class="line">  <span class="tag">&lt;/<span class="name">body</span>&gt;</span>  </div><div class="line"><span class="tag">&lt;/<span class="name">html</span>&gt;</span></div></pre></td></tr></table></figure>
+<figure class="highlight js"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">var</span> hw = <span class="string">'hello world'</span>;</div><div class="line"><span class="built_in">console</span>.log(hw);</div></pre></td></tr></table></figure>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;自我介绍&quot;&gt;&lt;a href=&quot;#自我介绍&quot; class=&quot;headerlink&quot; title=&quot;自我介绍&quot;&gt;&lt;/a&gt;自我介绍&lt;/h2&gt;&lt;p&gt;喜欢前端，擅长前端。&lt;/p&gt;
+&lt;h2 id=&quot;不同语言输出hello-world&quot;&gt;&lt;a href=&quot;#不同语言输出hell
+    
+    </summary>
+    
+      <category term="随笔" scheme="http://auven.oschina.io/blog/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="随笔" scheme="http://auven.oschina.io/blog/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+</feed>
